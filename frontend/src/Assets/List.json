@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "description": "A novel by F. Scott Fitzgerald about the American Dream's corruption in the Jazz Age.",
+    "price": 10.99,
+    "category": "Fiction",
+    "img": "https://example.com/great-gatsby.jpg"
+  },
+  {
+    "id": 2,
+    "name": "To Kill a Mockingbird",
+    "description": "A novel by Harper Lee set in the American South during the 1930s, addressing racial injustice.",
+    "price": 9.99,
+    "category": "Fiction",
+    "img": "https://example.com/to-kill-a-mockingbird.jpg"
+  },
+  {
+    "id": 3,
+    "name": "1984",
+    "description": "A dystopian novel by George Orwell portraying a totalitarian regime and its effects on society.",
+    "price": 12.5,
+    "category": "Science Fiction",
+    "img": "https://example.com/1984.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Catcher in the Rye",
+    "description": "A novel by J.D. Salinger narrated by a teenager who rebels against the 'phony' adult world.",
+    "price": 11.25,
+    "category": "Fiction",
+    "img": "https://example.com/catcher-in-the-rye.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pride and Prejudice",
+    "description": "A romantic novel by Jane Austen exploring themes of love, reputation, and class.",
+    "price": 8.75,
+    "category": "Romance",
+    "img": "https://example.com/pride-and-prejudice.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Hobbit",
+    "description": "A fantasy novel by J.R.R. Tolkien following the adventures of Bilbo Baggins.",
+    "price": 15.99,
+    "category": "Fantasy",
+    "img": "https://example.com/the-hobbit.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Harry Potter and the Philosopher's Stone",
+    "description": "The first book in the Harry Potter series by J.K. Rowling, introducing the wizarding world.",
+    "price": 14.99,
+    "category": "Fantasy",
+    "img": "https://example.com/harry-potter-philosophers-stone.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Lord of the Rings",
+    "description": "A high-fantasy novel series by J.R.R. Tolkien following the quest to destroy the One Ring.",
+    "price": 25.5,
+    "category": "Fantasy",
+    "img": "https://example.com/lord-of-the-rings.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Hunger Games",
+    "description": "A dystopian novel by Suzanne Collins where teenagers are forced to fight to the death in a televised event.",
+    "price": 13.75,
+    "category": "Science Fiction",
+    "img": "https://example.com/hunger-games.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Da Vinci Code",
+    "description": "A mystery thriller novel by Dan Brown following symbologist Robert Langdon's quest to solve a murder.",
+    "price": 11.99,
+    "category": "Mystery",
+    "img": "https://example.com/da-vinci-code.jpg"
+  },
+  {
+    "id": 11,
+    "name": "The Girl with the Dragon Tattoo",
+    "description": "A psychological thriller novel by Stieg Larsson involving journalist Mikael Blomkvist and hacker Lisbeth Salander.",
+    "price": 12.25,
+    "category": "Thriller",
+    "img": "https://example.com/girl-with-the-dragon-tattoo.jpg"
+  },
+  {
+    "id": 12,
+    "name": "The Road",
+    "description": "A post-apocalyptic novel by Cormac McCarthy following a father and son's journey through a desolate landscape.",
+    "price": 10.5,
+    "category": "Fiction",
+    "img": "https://example.com/the-road.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gone Girl",
+    "description": "A mystery thriller novel by Gillian Flynn revolving around the disappearance of a woman named Amy.",
+    "price": 14.5,
+    "category": "Mystery",
+    "img": "https://example.com/gone-girl.jpg"
+  },
+  {
+    "id": 14,
+    "name": "The Hunger Games",
+    "description": "A dystopian novel by Suzanne Collins where teenagers are forced to fight to the death in a televised event.",
+    "price": 0.0,
+    "category": "Free",
+    "img": "https://example.com/hunger-games.jpg"
+  },
+  {
+    "id": 15,
+    "name": "The Da Vinci Code",
+    "description": "A mystery thriller novel by Dan Brown following symbologist Robert Langdon's quest to solve a murder.",
+    "price": 0.0,
+    "category": "Free",
+    "img": "https://example.com/da-vinci-code.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Girl with Dragon Tattoo",
+    "description": "A psychological thriller novel by Stieg Larsson involving journalist Mikael Blomkvist and hacker Lisbeth Salander.",
+    "price": 0.0,
+    "category": "Free",
+    "img": "https://example.com/girl-with-the-dragon-tattoo.jpg"
+  },
+  {
+    "id": 17,
+    "name": "The Road",
+    "description": "A post-apocalyptic novel by Cormac McCarthy following a father and son's journey through a desolate landscape.",
+    "price": 0.0,
+    "category": "Free",
+    "img": "https://example.com/the-road.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Gone Girl",
+    "description": "A mystery thriller novel by Gillian Flynn revolving around the disappearance of a woman named Amy.",
+    "price": 0.0,
+    "category": "Free",
+    "img": "https://example.com/gone-girl.jpg"
+  },
+  {
+    "id": 19,
+    "name": "To Kill a Mockingbird",
+    "description": "A novel by Harper Lee set in the American South during the 1930s, addressing racial injustice.",
+    "price": 0.00,
+    "category": "Free",
+    "img": "https://example.com/to-kill-a-mockingbird.jpg"
+  }
+]
